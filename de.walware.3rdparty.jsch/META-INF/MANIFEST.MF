@@ -5,3 +5,12 @@ Bundle-Version: 0.1.50.qualifier
 Bundle-Vendor: WalWare.de
 Bundle-Name: JSch
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: com.jcraft.jzlib;resolution:=optional,
+ javax.crypto,
+ javax.crypto.interfaces,
+ javax.crypto.spec,
+ org.ietf.jgss
+Export-Package: com.jcraft.jsch;version="0.1.50",
+ com.jcraft.jsch.jce;version="0.1.50";x-internal:=true,
+ com.jcraft.jsch.jcraft;version="0.1.50";x-internal:=true,
+ com.jcraft.jsch.jgss;version="0.1.50";x-internal:=true
