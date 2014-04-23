@@ -13,7 +13,7 @@
 	
 	<groupId>de.walware.3rdparty</groupId>
 	<artifactId>com.jcraft.jsch</artifactId>
-	<version>0.1.50-SNAPSHOT</version>
+	<version>0.1.51-SNAPSHOT</version>
 	<packaging>eclipse-plugin</packaging>
 	
 </project>
