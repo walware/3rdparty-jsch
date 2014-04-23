@@ -5,3 +5,4 @@ Bundle-Version: 1.1.2.qualifier
 Bundle-Vendor: WalWare.de
 Bundle-Name: JZlib
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.jcraft.jzlib;version="1.1.2"
