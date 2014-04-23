@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.jcraft.jsch
+Bundle-Version: 0.1.50.qualifier
+Bundle-Vendor: WalWare.de
+Bundle-Name: JSch
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

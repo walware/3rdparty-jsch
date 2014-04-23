@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="de.walware.3rdparty.jsch.source"
+      label="JSch - Sources"
+      version="0.1.50.qualifier"
+      provider-name="WalWare.de"
+      license-feature="de.walware.opensource.license"
+      license-feature-version="1.0.0">
+
+   <description url="http://www.jcraft.com/jsch">
+      JSch, Java Secure Channel Library by JCraft.
+   </description>
+
+   <copyright>
+      Copyright (c) 2002-2013 Atsuhiko Yamanaka, JCraft, Inc. and others. All rights reserved.
+   </copyright>
+
+   <license url="%license_url">
+      %license_text
+   </license>
+
+   <plugin
+         id="com.jcraft.jsch.source"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

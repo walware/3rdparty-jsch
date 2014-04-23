@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.jcraft.jzlib
+Bundle-Version: 1.1.2.qualifier
+Bundle-Vendor: WalWare.de
+Bundle-Name: JZlib
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
